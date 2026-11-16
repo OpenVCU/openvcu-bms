@@ -12,7 +12,7 @@ This repository contains the KiCad 10 schematics, PCB layouts, custom footprint/
 
 ## Hardware Specifications & Key Features
 
-Designed for high-voltage electric vehicle battery packs (400V–800V class) with an emphasis on component availability, automated SMD PCBA manufacturing, reinforced galvanic isolation, and reliable operation down to **-30°C**:
+Designed for high-voltage electric vehicle battery packs (400V–800V class) with an emphasis on component availability, automated SMD PCBA manufacturing, reinforced galvanic isolation, and reliable operation from **-30°C** to **70°C**:
 
 * **Microcontroller (`MCU.kicad_sch`):** STMicroelectronics **STM32G474CCTx** (LQFP-48, 170 MHz Cortex-M4F, 256 KB Flash).
 * **Dual isoSPI Daisy-Chain Master (`MCU.kicad_sch`):**

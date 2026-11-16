@@ -265,7 +265,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "R1"
+      "sch_revision": "R0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -670,7 +670,7 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "J",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",

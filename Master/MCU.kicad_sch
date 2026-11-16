@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "OpenVCU Redundant isoSPI BMS-Master")
-		(date "2026-11-14")
-		(rev "R1")
+		(date "2026-11-16")
+		(rev "R0")
 		(company "OpenVCU")
 		(comment 1 "Matt Cavins")
 		(comment 8 "R1 - Initial Release")
@@ -8980,7 +8980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO_SOT_Packages_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 181.61 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -10116,7 +10116,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 135.001 69.2658 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12549,7 +12549,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 135.001 145.4658 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12777,7 +12777,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 75.311 81.9658 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13612,7 +13612,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 75.311 158.1658 0)
 			(show_name no)
 			(do_not_autoplace no)

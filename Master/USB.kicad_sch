@@ -6,8 +6,8 @@
 	(paper "A5")
 	(title_block
 		(title "OpenVCU Redundant isoSPI BMS-Master")
-		(date "2026-11-14")
-		(rev "R1")
+		(date "2026-11-16")
+		(rev "R0")
 		(company "OpenVCU")
 		(comment 1 "Matt Cavins")
 		(comment 8 "R1 - Initial Release")
@@ -4124,7 +4124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO_SOT_Packages_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 180.34 23.495 0)
 			(hide yes)
 			(show_name no)
