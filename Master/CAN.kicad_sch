@@ -6,8 +6,8 @@
 	(paper "A5")
 	(title_block
 		(title "OpenVCU Redundant isoSPI BMS-Master")
-		(date "2026-11-16")
-		(rev "R0")
+		(date "2026-11-14")
+		(rev "R1")
 		(company "OpenVCU")
 		(comment 1 "Matt Cavins")
 		(comment 8 "R1 - Initial Release")
@@ -3131,7 +3131,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/iso1044.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/iso1042-q1.pdf"
 			(at 76.2 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -3143,6 +3143,17 @@
 			)
 		)
 		(property "Description" "Isolated CAN FD Transceiver, SOIC-8"
+			(at 76.2 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ISO1042QDWVRQ1"
 			(at 76.2 30.48 0)
 			(hide yes)
 			(show_name no)

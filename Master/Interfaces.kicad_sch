@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "OpenVCU Redundant isoSPI BMS-Master")
-		(date "2026-11-16")
-		(rev "R0")
+		(date "2026-11-14")
+		(rev "R1")
 		(company "OpenVCU")
 		(comment 1 "Matt Cavins")
 		(comment 8 "R1 - Initial Release")
@@ -2610,7 +2610,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-074M7L"
+		(property "MPN" "RC0603FR-0710KL"
 			(at 77.47 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2699,7 +2699,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-074M7L"
+		(property "MPN" "RC0603FR-0710KL"
 			(at 181.61 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2938,7 +2938,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN6075S.pdf"
 			(at 92.71 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -2960,7 +2960,7 @@
 				)
 			)
 		)
-		(property "MPN" "BSS138"
+		(property "MPN" "DMN6075S-7"
 			(at 92.71 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3128,7 +3128,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-074M7L"
+		(property "MPN" "RC0603FR-0710KL"
 			(at 181.61 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -3775,7 +3775,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-074M7L"
+		(property "MPN" "RC0603FR-0710KL"
 			(at 78.74 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -4029,7 +4029,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-074M7L"
+		(property "MPN" "RC0603FR-0710KL"
 			(at 77.47 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -4177,7 +4177,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN6075S.pdf"
 			(at 139.7 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -4199,7 +4199,7 @@
 				)
 			)
 		)
-		(property "MPN" "BSS138"
+		(property "MPN" "DMN6075S-7"
 			(at 139.7 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -4275,7 +4275,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9M42-60E.pdf"
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9Y40-55B.pdf"
 			(at 91.44 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4288,6 +4288,17 @@
 			)
 		)
 		(property "Description" "22A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 37mOhm Ron, 8.3nC Qqd, -55 to 175 °C, LFPAK33"
+			(at 86.36 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BUK9Y40-55B,115"
 			(at 86.36 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -4385,7 +4396,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "MCR03EZPFX1001"
 			(at 52.07 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4458,7 +4469,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9M42-60E.pdf"
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9Y40-55B.pdf"
 			(at 92.71 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4471,6 +4482,17 @@
 			)
 		)
 		(property "Description" "22A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 37mOhm Ron, 8.3nC Qqd, -55 to 175 °C, LFPAK33"
+			(at 87.63 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BUK9Y40-55B,115"
 			(at 87.63 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -4552,7 +4574,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9M42-60E.pdf"
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9Y40-55B.pdf"
 			(at 194.31 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4565,6 +4587,17 @@
 			)
 		)
 		(property "Description" "22A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 37mOhm Ron, 8.3nC Qqd, -55 to 175 °C, LFPAK33"
+			(at 189.23 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BUK9Y40-55B,115"
 			(at 189.23 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4662,7 +4695,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "MCR03EZPFX1001"
 			(at 52.07 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -4735,7 +4768,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9M42-60E.pdf"
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9Y40-55B.pdf"
 			(at 194.31 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4748,6 +4781,17 @@
 			)
 		)
 		(property "Description" "22A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 37mOhm Ron, 8.3nC Qqd, -55 to 175 °C, LFPAK33"
+			(at 189.23 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BUK9Y40-55B,115"
 			(at 189.23 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -4829,7 +4873,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9M42-60E.pdf"
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BUK9Y40-55B.pdf"
 			(at 91.44 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -4842,6 +4886,17 @@
 			)
 		)
 		(property "Description" "22A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 37mOhm Ron, 8.3nC Qqd, -55 to 175 °C, LFPAK33"
+			(at 86.36 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BUK9Y40-55B,115"
 			(at 86.36 166.37 0)
 			(hide yes)
 			(show_name no)

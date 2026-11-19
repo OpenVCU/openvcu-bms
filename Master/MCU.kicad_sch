@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "OpenVCU Redundant isoSPI BMS-Master")
-		(date "2026-11-16")
-		(rev "R0")
+		(date "2026-11-14")
+		(rev "R1")
 		(company "OpenVCU")
 		(comment 1 "Matt Cavins")
 		(comment 8 "R1 - Initial Release")
@@ -5013,6 +5013,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 21.59) (xy 93.98 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "014172d4-1bbb-4595-a46d-7ba9e161dedd")
+	)
+	(wire
+		(pts
 			(xy 73.66 121.92) (xy 44.45 121.92)
 		)
 		(stroke
@@ -5060,6 +5070,16 @@
 			(type default)
 		)
 		(uuid "0736b6f6-61cc-4e34-a9ba-9396fdaa8e7a")
+	)
+	(wire
+		(pts
+			(xy 106.68 36.83) (xy 113.03 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08607a67-89ec-43b1-82f5-e26889277a2d")
 	)
 	(wire
 		(pts
@@ -5513,16 +5533,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 43.18) (xy 93.98 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49a1205b-80c4-4c96-98bd-3ca386e8ec79")
-	)
-	(wire
-		(pts
 			(xy 226.06 48.26) (xy 228.6 48.26)
 		)
 		(stroke
@@ -5640,6 +5650,16 @@
 			(type default)
 		)
 		(uuid "552ff9da-9f75-4ac0-8103-56aa7647fce2")
+	)
+	(wire
+		(pts
+			(xy 106.68 21.59) (xy 113.03 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "554f6914-d132-4585-a2e5-f1347f44e8a8")
 	)
 	(wire
 		(pts
@@ -5823,16 +5843,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 31.75) (xy 134.62 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6500cafc-60d6-40f4-8898-732bdd0f3dc4")
-	)
-	(wire
-		(pts
 			(xy 110.49 147.32) (xy 114.3 147.32)
 		)
 		(stroke
@@ -5880,6 +5890,16 @@
 			(type default)
 		)
 		(uuid "68e7e4cf-50d2-4e21-9219-e14d3ceb3da8")
+	)
+	(wire
+		(pts
+			(xy 134.62 36.83) (xy 134.62 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "695e30d1-eb30-48ff-8965-663c3065672d")
 	)
 	(polyline
 		(pts
@@ -5950,6 +5970,16 @@
 			(type default)
 		)
 		(uuid "6e080c39-2fa7-4644-b1e7-e517dae35c06")
+	)
+	(wire
+		(pts
+			(xy 120.65 31.75) (xy 120.65 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e744db6-62d5-495c-b50c-8af37bc6589b")
 	)
 	(wire
 		(pts
@@ -6180,16 +6210,6 @@
 			(type default)
 		)
 		(uuid "8a9b187d-564a-4a59-9ed4-8377fc1141c9")
-	)
-	(wire
-		(pts
-			(xy 134.62 31.75) (xy 134.62 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c66978b-050e-450c-bb10-ea2c33bda338")
 	)
 	(wire
 		(pts
@@ -6563,6 +6583,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 30.48) (xy 93.98 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5d534ac-3018-4dd5-b817-b52dde2807b3")
+	)
+	(wire
+		(pts
 			(xy 110.49 162.56) (xy 110.49 168.91)
 		)
 		(stroke
@@ -6690,16 +6720,6 @@
 			(type default)
 		)
 		(uuid "bd8db30e-7e17-48e3-b18c-4e3434ebc5d9")
-	)
-	(wire
-		(pts
-			(xy 120.65 41.91) (xy 120.65 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bdbdc2d1-3863-481a-971d-a030b28c456e")
 	)
 	(wire
 		(pts
@@ -6923,6 +6943,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 41.91) (xy 134.62 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed0092d0-b85a-4de8-b28e-9a9aa7da0375")
+	)
+	(wire
+		(pts
 			(xy 205.74 104.14) (xy 198.12 104.14)
 		)
 		(stroke
@@ -7000,16 +7030,6 @@
 			(type default)
 		)
 		(uuid "f4344b76-cf03-4164-8dae-1687c375867a")
-	)
-	(wire
-		(pts
-			(xy 93.98 21.59) (xy 93.98 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5aefcdc-1e78-4a4a-932c-1cbb4c413715")
 	)
 	(wire
 		(pts
@@ -7211,7 +7231,7 @@
 		)
 		(uuid "44d5ed2f-540f-4960-8408-94ebd305d442")
 	)
-	(label "ChargeDetect"
+	(label "MCU_ChargeDetect"
 		(at 194.31 129.54 0)
 		(effects
 			(font
@@ -7421,7 +7441,7 @@
 		)
 		(uuid "ea99396e-32c9-4525-a8bf-31efcb007230")
 	)
-	(label "ChargeDetect"
+	(label "MCU_ChargeDetect"
 		(at 198.12 78.74 180)
 		(effects
 			(font
@@ -7902,7 +7922,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H180JA01D"
+		(property "MPN" "GRM1885C1H270JA01D"
 			(at 262.89 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -8004,7 +8024,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H180JA01D"
+		(property "MPN" "GRM1885C1H270JA01D"
 			(at 237.49 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -8412,7 +8432,7 @@
 				)
 			)
 		)
-		(property "MPN" "53398-0571 "
+		(property "MPN" "53398-0571"
 			(at 44.45 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -8993,7 +9013,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN6075S.pdf"
 			(at 176.53 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -9015,7 +9035,7 @@
 				)
 			)
 		)
-		(property "MPN" "BSS138"
+		(property "MPN" "DMN6075S-7"
 			(at 176.53 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -9168,7 +9188,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "10k"
 			(at 250.698 37.973 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9211,7 +9231,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-07100KL"
+		(property "MPN" "RC0603FR-0710KL"
 			(at 248.92 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -9410,7 +9430,7 @@
 				)
 			)
 		)
-		(property "Value" "60.1"
+		(property "Value" "60.4"
 			(at 76.6064 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9452,7 +9472,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-0751RL"
+		(property "MPN" "RC0603FR-0760R4L"
 			(at 73.66 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -9499,7 +9519,7 @@
 				)
 			)
 		)
-		(property "Value" "60.1"
+		(property "Value" "60.4"
 			(at 76.6064 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9541,7 +9561,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-0751RL"
+		(property "MPN" "RC0603FR-0760R4L"
 			(at 73.66 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -10233,7 +10253,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-071K2L"
+		(property "MPN" "RC0603FR-07806RL"
 			(at 69.85 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -10322,7 +10342,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07806RL"
+		(property "MPN" "RC0603FR-071K2L"
 			(at 55.88 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -10633,7 +10653,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/6820fb.pdf"
 			(at 95.25 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -10654,7 +10674,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTC6820IMS#PBF "
+		(property "MPN" "LTC6820IMS#PBF"
 			(at 95.25 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -11129,7 +11149,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07806RL"
+		(property "MPN" "MCR03EZPFX1001"
 			(at 186.69 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11213,6 +11233,17 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 128KB RAM, 170 MHz, 1.71-3.6V, 38 GPIO, LQFP48"
+			(at 223.52 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STM32G474CCT6"
 			(at 223.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11515,7 +11546,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-071K2L"
+		(property "MPN" "RC0603FR-07806RL"
 			(at 69.85 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -11755,7 +11786,7 @@
 				)
 			)
 		)
-		(property "Value" "60.1"
+		(property "Value" "60.4"
 			(at 76.6064 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11797,7 +11828,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-0751RL"
+		(property "MPN" "RC0603FR-0760R4L"
 			(at 73.66 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -12226,7 +12257,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/6820fb.pdf"
 			(at 95.25 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12247,7 +12278,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTC6820IMS#PBF "
+		(property "MPN" "LTC6820IMS#PBF"
 			(at 95.25 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -12499,6 +12530,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 118.11 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MMBT3906LT1G"
 			(at 118.11 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -13255,6 +13297,7 @@
 	(symbol
 		(lib_id "Transistor_BJT:MMBT3904")
 		(at 118.11 36.83 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13262,10 +13305,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7e62f68f-cbfd-4851-8138-2bced094163a")
 		(property "Reference" "Q11"
-			(at 123.19 35.5599 0)
+			(at 123.19 38.1001 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13276,7 +13318,7 @@
 			)
 		)
 		(property "Value" "MMBT3904"
-			(at 123.19 38.0999 0)
+			(at 123.19 35.5601 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13287,7 +13329,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 123.19 38.735 0)
+			(at 123.19 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13334,6 +13376,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 118.11 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MMBT3904LT1G"
 			(at 118.11 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -13923,6 +13976,17 @@
 				)
 			)
 		)
+		(property "MPN" "MMBT3904LT1G"
+			(at 156.21 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "a9a679f0-168d-4f2e-80cb-e33bbd4bbe6d")
 		)
@@ -14156,7 +14220,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07806RL"
+		(property "MPN" "RC0603FR-071K2L"
 			(at 55.88 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -14548,7 +14612,7 @@
 				)
 			)
 		)
-		(property "Value" "60.1"
+		(property "Value" "60.4"
 			(at 76.6064 125.73 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14590,7 +14654,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603JR-0751RL"
+		(property "MPN" "RC0603FR-0760R4L"
 			(at 73.66 125.73 0)
 			(hide yes)
 			(show_name no)
