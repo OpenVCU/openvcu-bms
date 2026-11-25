@@ -14,6 +14,239 @@
 		(comment 9 "Matt Cavins")
 	)
 	(lib_symbols
+		(symbol "AMC1301_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U1"
+				(at 0 17.145 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "AMC1301"
+				(at 0 14.8336 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SO:SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/amc1301.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "AMC1301DWVR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "AMC1301_1_0_1"
+				(rectangle
+					(start -12.7 12.7)
+					(end 12.7 -12.7)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "AMC1301_1_1_1"
+				(pin input line
+					(at -15.24 11.43 0)
+					(length 2.54)
+					(name "VDD1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -2.54 0)
+					(length 2.54)
+					(name "VINP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -11.43 0)
+					(length 2.54)
+					(name "VINN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 2.54 0)
+					(length 2.54)
+					(name "GND1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 2.54 180)
+					(length 2.54)
+					(name "GND2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -11.43 180)
+					(length 2.54)
+					(name "VOUTN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -2.54 180)
+					(length 2.54)
+					(name "VOUTP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 11.43 180)
+					(length 2.54)
+					(name "VDD2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Amplifier_Operational:OPA2376xxD"
 			(pin_names
 				(offset 0.127)
@@ -8421,7 +8654,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c34ba3a")
 		(property "Reference" "R144"
-			(at 219.71 156.3878 90)
+			(at 219.71 147.066 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8500,7 +8733,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 219.71 160.02 270)
+		(at 219.71 160.02 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8510,7 +8743,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c34ba40")
 		(property "Reference" "R145"
-			(at 219.456 147.066 90)
+			(at 219.71 156.21 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8520,7 +8753,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 219.71 157.0736 90)
+			(at 219.71 157.988 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8530,7 +8763,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 219.71 158.242 90)
+			(at 219.71 161.798 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9518,7 +9751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "OpenVCU:WURTH-760390014"
+		(property "Footprint" "OpenVCU:WURTH-760390015"
 			(at 147.32 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9550,7 +9783,7 @@
 				)
 			)
 		)
-		(property "MPN" "760390014"
+		(property "MPN" "760390015"
 			(at 147.32 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -14820,6 +15053,7 @@
 		)
 	)
 	(symbol
+		(lib_name "AMC1301_1")
 		(lib_id "ENNOID:AMC1301")
 		(at 147.32 248.92 0)
 		(unit 1)
@@ -16413,7 +16647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "OpenVCU:WURTH-760390014"
+		(property "Footprint" "OpenVCU:WURTH-760390015"
 			(at 147.32 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -16445,7 +16679,7 @@
 				)
 			)
 		)
-		(property "MPN" "760390014"
+		(property "MPN" "760390015"
 			(at 147.32 219.71 0)
 			(hide yes)
 			(show_name no)

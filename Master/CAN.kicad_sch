@@ -529,7 +529,7 @@
 					)
 				)
 			)
-			(property "Value" "ISO1042W"
+			(property "Value" "ISO1042DWV"
 				(at 0 7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -539,7 +539,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(property "Footprint" "OpenVCU:SOIC-8W_7.5x5.85mm_Pitch1.27mm"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -551,7 +551,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/iso1044.pdf"
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/iso1042-q1.pdf"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -563,6 +563,17 @@
 				)
 			)
 			(property "Description" "Isolated CAN FD Transceiver, SOIC-8"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "ISO1042QDWVRQ1"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -690,7 +701,7 @@
 				(pin output line
 					(at -10.16 0 0)
 					(length 2.54)
-					(name "RXD"
+					(name "TXD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -708,7 +719,7 @@
 				(pin input line
 					(at -10.16 -2.54 0)
 					(length 2.54)
-					(name "TXD"
+					(name "RXD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1489,6 +1500,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 30.48) (xy 66.04 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "195d3337-cb3d-49b0-9236-c9a9c9e5b1ac")
+	)
+	(wire
+		(pts
 			(xy 149.86 35.56) (xy 149.86 38.1)
 		)
 		(stroke
@@ -1496,16 +1517,6 @@
 			(type default)
 		)
 		(uuid "20e8fc24-ecc9-482c-8402-893c8e7d389a")
-	)
-	(wire
-		(pts
-			(xy 54.61 33.02) (xy 66.04 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29326968-a1d4-4a65-9332-cf5fdbdf120f")
 	)
 	(wire
 		(pts
@@ -1679,6 +1690,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 33.02) (xy 66.04 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "950aaeaa-edbe-462a-85cc-e940a99eed1a")
+	)
+	(wire
+		(pts
 			(xy 63.5 91.44) (xy 63.5 96.52)
 		)
 		(stroke
@@ -1716,16 +1737,6 @@
 			(type default)
 		)
 		(uuid "af1bf8fe-6078-47b3-91a4-fe17fb4bfcd0")
-	)
-	(wire
-		(pts
-			(xy 54.61 30.48) (xy 66.04 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb5823bf-f8a3-4b84-835c-fdf183323865")
 	)
 	(wire
 		(pts
@@ -1899,7 +1910,7 @@
 	)
 	(hierarchical_label "CAN_TXD"
 		(shape input)
-		(at 54.61 33.02 180)
+		(at 54.61 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1932,7 +1943,7 @@
 	)
 	(hierarchical_label "CAN_RXD"
 		(shape output)
-		(at 54.61 30.48 180)
+		(at 54.61 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3109,7 +3120,7 @@
 				)
 			)
 		)
-		(property "Value" "ISO1042QDWVRQ1"
+		(property "Value" "ISO1042DWV"
 			(at 76.2 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)

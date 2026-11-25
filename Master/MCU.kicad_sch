@@ -5213,6 +5213,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 101.6) (xy 205.74 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20004fa1-de1c-4300-95d6-9cef12d3db21")
+	)
+	(wire
+		(pts
 			(xy 223.52 139.7) (xy 224.79 139.7)
 		)
 		(stroke
@@ -5270,6 +5280,16 @@
 			(type default)
 		)
 		(uuid "264f6773-24f5-45d7-b653-489ec7bc8c27")
+	)
+	(wire
+		(pts
+			(xy 163.83 104.14) (xy 205.74 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27328117-3877-413f-a24a-3cf5b6900c61")
 	)
 	(wire
 		(pts
@@ -5723,16 +5743,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 109.22) (xy 205.74 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5aa49c79-ec4c-4518-9516-1a795fd9fa2e")
-	)
-	(wire
-		(pts
 			(xy 110.49 92.71) (xy 127 92.71)
 		)
 		(stroke
@@ -5953,6 +5963,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 66.04) (xy 270.51 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c84993d-e1a6-4f60-8f63-243fe5bba64b")
+	)
+	(wire
+		(pts
 			(xy 80.01 74.93) (xy 66.04 74.93)
 		)
 		(stroke
@@ -5960,6 +5980,16 @@
 			(type default)
 		)
 		(uuid "6d1195d6-aeac-41eb-8f8b-b9151adace8b")
+	)
+	(wire
+		(pts
+			(xy 241.3 78.74) (xy 270.51 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d27c78f-d791-45a1-8f25-4658b9b83c59")
 	)
 	(wire
 		(pts
@@ -6000,16 +6030,6 @@
 			(type default)
 		)
 		(uuid "70a98e69-418f-4fdf-b465-4c7376bba811")
-	)
-	(wire
-		(pts
-			(xy 241.3 63.5) (xy 270.51 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71b428aa-c9a8-44a0-a492-c314e166f1f5")
 	)
 	(wire
 		(pts
@@ -6070,16 +6090,6 @@
 			(type default)
 		)
 		(uuid "78e6fd06-fcc4-49d4-9b87-362aa296744c")
-	)
-	(wire
-		(pts
-			(xy 163.83 101.6) (xy 205.74 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "794f8811-e7ff-4821-b8db-7ea20823c726")
 	)
 	(wire
 		(pts
@@ -6303,6 +6313,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 63.5) (xy 270.51 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b61ef9d-c451-4d0a-b16c-99a815ab5b30")
+	)
+	(wire
+		(pts
 			(xy 241.3 88.9) (xy 270.51 88.9)
 		)
 		(stroke
@@ -6523,16 +6543,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 66.04) (xy 270.51 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aff8063b-0eb6-49ed-81a7-5786f8434781")
-	)
-	(wire
-		(pts
 			(xy 220.98 48.26) (xy 220.98 50.8)
 		)
 		(stroke
@@ -6540,6 +6550,16 @@
 			(type default)
 		)
 		(uuid "b0310756-8db6-4555-83df-6d82d2305195")
+	)
+	(wire
+		(pts
+			(xy 163.83 109.22) (xy 205.74 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b12f439a-7d2a-43dd-966b-85a9ffdea387")
 	)
 	(wire
 		(pts
@@ -6653,16 +6673,6 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 83.82) (xy 241.3 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbe6b80e-e3c6-4041-a5a0-017916a100ad")
-	)
-	(wire
-		(pts
 			(xy 163.83 91.44) (xy 205.74 91.44)
 		)
 		(stroke
@@ -6743,6 +6753,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 96.52) (xy 270.51 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "becce2ee-9e9d-4493-962a-812b179dc825")
+	)
+	(wire
+		(pts
 			(xy 110.49 71.12) (xy 114.3 71.12)
 		)
 		(stroke
@@ -6820,16 +6840,6 @@
 			(type default)
 		)
 		(uuid "d531ffd5-156d-490e-8cb1-08c3e7ef050f")
-	)
-	(wire
-		(pts
-			(xy 163.83 106.68) (xy 205.74 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5628a95-8526-4cb5-980d-59c5db0df563")
 	)
 	(wire
 		(pts
@@ -6953,7 +6963,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 104.14) (xy 198.12 104.14)
+			(xy 205.74 106.68) (xy 198.12 106.68)
 		)
 		(stroke
 			(width 0)
@@ -7040,16 +7050,6 @@
 			(type default)
 		)
 		(uuid "f771d3f9-456e-4057-a475-e8f8e43ec075")
-	)
-	(wire
-		(pts
-			(xy 270.51 96.52) (xy 241.3 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f79f9599-7637-4b80-a2fe-af31cba1818b")
 	)
 	(wire
 		(pts
@@ -7212,7 +7212,7 @@
 		(uuid "38030fab-f10e-4fdc-b24f-54c66a43e8e3")
 	)
 	(label "BOOT0"
-		(at 198.12 104.14 180)
+		(at 198.12 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7401,7 +7401,7 @@
 		)
 		(uuid "c3b534e9-0b25-4cbf-aa74-d7e4c07fa504")
 	)
-	(label "OCS_OUT"
+	(label "OSC_OUT"
 		(at 274.32 144.78 0)
 		(effects
 			(font
@@ -7528,7 +7528,7 @@
 		)
 		(uuid "25a965d3-5d30-43ed-b711-6fe76d61ff2a")
 	)
-	(hierarchical_label "USB_TXD"
+	(hierarchical_label "USB_TX"
 		(shape bidirectional)
 		(at 270.51 63.5 0)
 		(effects
@@ -7585,7 +7585,7 @@
 	)
 	(hierarchical_label "OLED_RST"
 		(shape input)
-		(at 163.83 109.22 180)
+		(at 163.83 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7629,7 +7629,7 @@
 	)
 	(hierarchical_label "OLED_SDA"
 		(shape bidirectional)
-		(at 163.83 106.68 180)
+		(at 163.83 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7662,12 +7662,12 @@
 	)
 	(hierarchical_label "OLED_SCL"
 		(shape bidirectional)
-		(at 163.83 101.6 180)
+		(at 270.51 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "c04939d7-2748-46d7-8a20-476498a01eb6")
 	)
@@ -7693,7 +7693,7 @@
 		)
 		(uuid "d67b4a1f-136d-4bdf-a35a-88c0ec392367")
 	)
-	(hierarchical_label "USB_RXD"
+	(hierarchical_label "USB_RX"
 		(shape bidirectional)
 		(at 270.51 66.04 0)
 		(effects
@@ -7717,12 +7717,12 @@
 	)
 	(hierarchical_label "BUZZER"
 		(shape input)
-		(at 270.51 96.52 0)
+		(at 163.83 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "eb190527-4603-41c0-9142-b486267be248")
 	)
@@ -7750,7 +7750,7 @@
 	)
 	(hierarchical_label "SDA"
 		(shape input)
-		(at 270.51 83.82 0)
+		(at 270.51 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12022,6 +12022,127 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:MMBT3904")
+		(at 118.11 21.59 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "37149ecf-005b-4077-848e-4fadc05d1e71")
+		(property "Reference" "Q12"
+			(at 123.19 22.8601 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MMBT3904"
+			(at 123.19 20.3201 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 123.19 19.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+			(at 118.11 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+			(at 118.11 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 118.11 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 118.11 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MMBT3904LT1G"
+			(at 118.11 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "bd5f07bd-3e98-4fc7-b9b9-698b18c0509c")
+		)
+		(pin "2"
+			(uuid "134498ee-2d40-4578-b391-4165452ba4aa")
+		)
+		(pin "1"
+			(uuid "fc3026d9-8bde-4d27-bd04-e8b47db31c19")
+		)
+		(instances
+			(project "BMS-Master"
+				(path "/3a8b40af-3df4-41ad-9f41-6f261618f9e1/00000000-0000-0000-0000-00005ab72d4d"
+					(reference "Q12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "BMS-Master-rescue:C-Device-BMS-Master-rescue")
 		(at 127 172.72 0)
 		(unit 1)
@@ -12443,127 +12564,6 @@
 			(project "BMS-Master"
 				(path "/3a8b40af-3df4-41ad-9f41-6f261618f9e1/00000000-0000-0000-0000-00005ab72d4d"
 					(reference "C86")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:MMBT3906")
-		(at 118.11 21.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4e677462-0ba7-4b60-adcc-7558a336311e")
-		(property "Reference" "Q12"
-			(at 123.19 20.3199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MMBT3906"
-			(at 123.19 22.8599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 123.19 23.495 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3906-d.pdf"
-			(at 118.11 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-23"
-			(at 118.11 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "PNP"
-			(at 118.11 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 118.11 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "MMBT3906LT1G"
-			(at 118.11 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0c506d00-f65e-46d2-b12c-c84164dddee3")
-		)
-		(pin "3"
-			(uuid "6de8df12-c23d-4c95-93d1-e5ddf3cbf6a5")
-		)
-		(pin "1"
-			(uuid "6351ed9e-007b-4a9d-863b-cf09977a5f9e")
-		)
-		(instances
-			(project "BMS-Master"
-				(path "/3a8b40af-3df4-41ad-9f41-6f261618f9e1/00000000-0000-0000-0000-00005ab72d4d"
-					(reference "Q12")
 					(unit 1)
 				)
 			)
@@ -13885,7 +13885,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:MMBT3904")
+		(lib_id "Transistor_BJT:MMBT3906")
 		(at 156.21 36.83 0)
 		(unit 1)
 		(body_style 1)
@@ -13895,7 +13895,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b45798fc-11d4-4c0a-8db1-2966bab94189")
+		(uuid "b20b7c5d-8631-4824-81e3-389a9fc6840b")
 		(property "Reference" "Q10"
 			(at 161.29 35.5599 0)
 			(show_name no)
@@ -13907,7 +13907,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MMBT3904"
+		(property "Value" "MMBT3906"
 			(at 161.29 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13931,7 +13931,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3906-d.pdf"
 			(at 156.21 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -13943,7 +13943,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+		(property "Description" "-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-23"
 			(at 156.21 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -13954,7 +13954,7 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
+		(property "Sim.Device" "PNP"
 			(at 156.21 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -13976,7 +13976,7 @@
 				)
 			)
 		)
-		(property "MPN" "MMBT3904LT1G"
+		(property "MPN" "MMBT3906LT1G"
 			(at 156.21 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -13987,14 +13987,14 @@
 				)
 			)
 		)
-		(pin "3"
-			(uuid "a9a679f0-168d-4f2e-80cb-e33bbd4bbe6d")
-		)
 		(pin "2"
-			(uuid "8d0c9151-4c2b-434f-936f-8d867f383472")
+			(uuid "73669e15-3dba-47d4-a0aa-640c13f884c5")
+		)
+		(pin "3"
+			(uuid "cedbbb24-ae9e-4802-b84f-ff9aa64c7d18")
 		)
 		(pin "1"
-			(uuid "c4a1db7e-6bb0-4423-8484-5833b2b032ad")
+			(uuid "4f9a9e82-b46d-4482-8537-fb988f6b3829")
 		)
 		(instances
 			(project "BMS-Master"
